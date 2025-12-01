@@ -90,3 +90,4 @@ def get_logger() -> SimpleLogger:
         _logger_instance = SimpleLogger()
     return _logger_instance
 
+print('test')
